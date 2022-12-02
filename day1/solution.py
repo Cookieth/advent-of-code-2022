@@ -10,5 +10,6 @@ if __name__ == "__main__":
         else:
             running_sum += int(line)
     elves.sort()
+    print("Top:", sum(elves[-1:]))
     print("Top Three:", sum(elves[-3:]))
     

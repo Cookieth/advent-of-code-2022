@@ -1,0 +1,2 @@
+Invalid arguments.
+    Usage: make run DAY=<day>
